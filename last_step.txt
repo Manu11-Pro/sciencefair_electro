@@ -1,0 +1,7 @@
+Connect the ground pin of your audio jack to the main GND rail and solder the negative leg of your 47µF output capacitor directly to the Stereo Left O/P Pin, leaving the broken right pin completely empty. [tech-support]
+
+🧵 The Final Audio Jack Wiring Steps
+
+1. Ground Connection: Solder a short wire from the GND Pin of your audio socket (the pin right next to the front metal barrel) straight into your board's main GND rail track (connected to Pin 4 of your chip) [tech-support].
+2. Left Signal Connection: Take the wire coming from the Negative (-) side of your 47µF capacitor and solder it directly onto the Stereo Left O/P Pin on your socket [tech-support].
+3. Leave Empty: Leave the broken Stereo Right O/P Pin and both Switched pins completely empty and floating [tech-support].
